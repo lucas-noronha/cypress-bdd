@@ -8,7 +8,7 @@
 
 
 
-## [▶️ Assista ao vídeo hospedado no Drive]([https://drive.google.com/file/d/ID_DO_ARQUIVO/view?usp=sharing](https://drive.google.com/file/d/1gu_57xQ5NbyCx-S-0eFP0RJ9M4X4R1nm/view?usp=sharing))
+## [▶️ Assista ao vídeo hospedado no Drive](https://drive.google.com/file/d/1gu_57xQ5NbyCx-S-0eFP0RJ9M4X4R1nm/view?usp=sharing)
 
 
 # qa202513
