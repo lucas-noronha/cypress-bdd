@@ -10,6 +10,7 @@
 
 ## [▶️ Assista ao vídeo hospedado no Drive](https://drive.google.com/file/d/1gu_57xQ5NbyCx-S-0eFP0RJ9M4X4R1nm/view?usp=sharing)
 
+## O projeto foi desenvolvido tendo como base os fontes configurados e disponibilizados pelo professor!
 
 # qa202513
 Repositório para os código de automação de testes com CypressJS e Cucumber (BDD) para a turma P5A - QA202513.
